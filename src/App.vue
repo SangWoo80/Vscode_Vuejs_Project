@@ -3,7 +3,7 @@
     <div id="nav">
       <router-link to="/">Home</router-link> |
       <router-link to="/about">About</router-link> |
-      <router-link to="/mytest">MyTest</router-link>
+      <router-link to="/mytest">Vue.js2 프로그래밍 테스트</router-link>
     </div>
     <router-view/>
   </div>
